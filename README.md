@@ -13,3 +13,8 @@
  setting up content 
 
  Currently starting the process of adding small piles of content 
+
+ having issues with CSS 
+
+ for some reason the fonts that I have picked dont seem to showing 
+ 
