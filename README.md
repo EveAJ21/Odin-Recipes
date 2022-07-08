@@ -17,4 +17,8 @@
  having issues with CSS 
 
  for some reason the fonts that I have picked dont seem to showing 
- 
+
+
+ Fixed font issue 
+
+ After looking through my CSS I realized the issue was my font weight which I set for some reason.
