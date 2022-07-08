@@ -5,3 +5,11 @@
  Setting up frame work
 
  I am currently setting up files and html boiler plates for four different files
+
+ setting up hyperlinks
+
+ I am currently testing if href are jumping to the correct file/webpage
+
+ setting up content 
+
+ Currently starting the process of adding small piles of content 
