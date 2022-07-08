@@ -1,0 +1,133 @@
+
+body {
+    color:#000000a2;
+
+    background-color:rgba(129, 171, 77, 0.515);
+
+    font-family:"Times New Roman", Verdana, sans-serif;
+
+}
+
+h1 {
+
+    font-size: 1.7EM;
+
+    font-family:"Times New Roman",Verdana, sans-serif;
+
+    border: 3px solid #482b0ec3;
+
+    text-align: center;
+}
+
+
+h1, p {
+
+background-color: #cabdaa8b;
+
+display:block;
+
+padding: 25px;
+
+border-bottom: 5px dotted #3b2910a5;
+
+}
+
+
+h2 { 
+
+    font-size: 28px;
+
+    text-align:left;
+      
+    font-family: "Times New Roman" ,Verdana, sans-serif;
+
+    text-align:center;
+
+    padding: 30px;
+
+}
+
+/*commits are different there*/
+h3 {
+
+font-size: 23px;
+
+text-align:center;
+
+padding: 10px;
+
+}
+
+ol {
+
+        list-style-type: number;
+      
+  }
+
+
+  p {
+
+      text-align:left;
+      
+      font-family:"Times New Roman" ,Verdana, sans-serif;
+
+      font-size : 18px;
+  
+      padding : 20px 10px 20px 10px;
+      
+      margin-bottom : 45px; 
+     
+     
+  
+  }
+    
+  div {
+    color: #000000a2;
+   
+    background-color: rgba(129, 171, 77, 0.515);
+   
+    font-weight: none;
+   
+    padding: 20px;
+   
+    text-align: center;
+   
+    border: 5px dotted  #3b2910a5;
+   
+    border-radius: 8px;
+
+    width: 200px;
+
+    box-sizing: border-box;
+
+    margin: 40px;
+
+  }
+
+
+  .page {
+
+    width: 557px;
+
+
+    margin: 0 auto;
+  }
+
+  a:link {
+    color:#482b0ec3;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: rgb(26, 129, 112);
+  }
+
+
+  a:hover {
+    color: rgb(26, 87, 59);
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: rgb(96, 62, 22);
+  }
